@@ -1,4 +1,4 @@
 # Sachin
 This is my first Git Repository
 <br>
-Author-Sachin kumar
+Author-Sachin (you mine)
